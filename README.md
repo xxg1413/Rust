@@ -4,7 +4,7 @@ Rust每日一题(Rust Daily Exercise)
 
 ## 题目列表
 
-|  #   | Title               |                 Solution                 |
+|  #   | Question            |                 Solution                 |
 | :--: | :------------------ | :--------------------------------------: |
 |  01  | [Hello-问好](01/) | [Rust](01/01.rs) |
 
