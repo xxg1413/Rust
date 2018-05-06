@@ -12,7 +12,7 @@ Rust每日一题(Rust Daily Exercise)
 |  04  | [疯狂填词](04/)    | [Rust](04/04.rs) |
 |  05  | [简单的数学处理](05/)    | [Rust](05/05.rs)      |
 |  06  | [计算退休时间](06/)      | [Rust](06/rust_06/)   |
-|  07  | [矩形房间的面试](07/)      | [Rust](07/rust_07/)   |
+|  07  | [矩形房间的面积](07/)      | [Rust](07/rust_07/)   |
 
 
 
@@ -25,7 +25,7 @@ Rust每日一题(Rust Daily Exercise)
 - [Rust每日一题之04-疯狂填词](https://mp.weixin.qq.com/s/WdhRANDUR1cHtUKENayZAw)
 - [Rust每日一题之05-简单的数学处理](https://mp.weixin.qq.com/s/6gD5tjjdYoAUeSHgdfua5A)
 - [Rust每日一题之06-计算退休时间](https://mp.weixin.qq.com/s/x0ghTXA9ET2-N_7QLujeJg)
-- [Rust每日一题之07-矩形房间的面试](https://mp.weixin.qq.com/s/NX6J1NajdELN0tkHjdV2jA)
+- [Rust每日一题之07-矩形房间的面积](https://mp.weixin.qq.com/s/NX6J1NajdELN0tkHjdV2jA)
 
 
 
