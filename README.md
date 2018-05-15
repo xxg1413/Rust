@@ -15,6 +15,7 @@ Rust每日一题(Rust Daily Exercise)
 |  07  | [矩形房间的面积](07/)      | [Rust](07/rust_07/)   |
 |  08  | [比萨聚会](08/)      | [Rust](08/rust_08/)   |
 |  09  | [涂料计算程序](09/)      | [Rust](09/rust_09/)   |
+|  10  | [自助结账](10/)      | [Rust](09/rust_10/)   |
 
 
 
@@ -30,6 +31,7 @@ Rust每日一题(Rust Daily Exercise)
 - [Rust每日一题之07-矩形房间的面积](https://mp.weixin.qq.com/s/NX6J1NajdELN0tkHjdV2jA)
 - [Rust每日一题之08-比萨聚会](https://mp.weixin.qq.com/s/upt3KAoULIh5QjIfqpMsGw)
 - [Rust每日一题之09-涂料计算程序](https://mp.weixin.qq.com/s/wzhxHFSs30BjR_CAQoNumA)
+- [Rust每日一题之10-自助结账](https://mp.weixin.qq.com/s/SPD-CJ2ZoCsixUYz-J6hsQ)
 
 
 
