@@ -33,6 +33,8 @@ Rust每日一题(Rust Daily Exercise)
 |  08  | [比萨聚会](08/)    | [Rust](08/rust_08/) |
 |  09  | [涂料计算程序](09/)  | [Rust](09/rust_09/) |
 |  10  | [自助结账](10/)    | [Rust](10/rust_10/) |
+|  11  | [货币兑换](11/)    | [Rust](11/rust_11/) |
+
 
 
 
@@ -46,10 +48,12 @@ Rust每日一题(Rust Daily Exercise)
 - [Rust每日一题之04-疯狂填词](https://mp.weixin.qq.com/s/WdhRANDUR1cHtUKENayZAw)
 - [Rust每日一题之05-简单的数学处理](https://mp.weixin.qq.com/s/6gD5tjjdYoAUeSHgdfua5A)
 - [Rust每日一题之06-计算退休时间](https://mp.weixin.qq.com/s/x0ghTXA9ET2-N_7QLujeJg)
+
 - [Rust每日一题之07-矩形房间的面积](https://mp.weixin.qq.com/s/NX6J1NajdELN0tkHjdV2jA)
 - [Rust每日一题之08-比萨聚会](https://mp.weixin.qq.com/s/upt3KAoULIh5QjIfqpMsGw)
 - [Rust每日一题之09-涂料计算程序](https://mp.weixin.qq.com/s/wzhxHFSs30BjR_CAQoNumA)
 - [Rust每日一题之10-自助结账](https://mp.weixin.qq.com/s/SPD-CJ2ZoCsixUYz-J6hsQ)
+- [Rust每日一题之11-货币兑换](https://mp.weixin.qq.com/s/U61CZUgeUBmdWXM9teVczw)
 
 
 
